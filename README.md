@@ -2,7 +2,7 @@
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 
   - [Multi-VPC Account Architechture](https://github.com/brycehallcloud/Multi-VPC-Account-Architecture)
-  - [Datacenter Connectivity](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
 <h2>Certifications</h2>
 
 - [CpmpTIA Security +](https://www.credly.com/badges/02ed2b42-6160-4f55-8047-896fc64d0753/public_url)
