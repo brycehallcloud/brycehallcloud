@@ -1,7 +1,7 @@
 <h1>Hi, I'm Bryce!
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 
-  - [Multi-VPC Account Architechture](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Multi-VPC Account Architechture](https://github.com/brycehallcloud/Multi-VPC-Account-Architecture)
   - [Datacenter Connectivity](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>Certifications</h2>
 
