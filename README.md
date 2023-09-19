@@ -3,7 +3,7 @@
 
   - [Multi-VPC Account Architechture](https://github.com/brycehallcloud/Multi-VPC-Account-Architecture)
  
-<h2>📑Certifications</h2>
+<h2>📋Certifications</h2>
 
 - [CpmpTIA Security +](https://www.credly.com/badges/02ed2b42-6160-4f55-8047-896fc64d0753/public_url)
 
