@@ -2,7 +2,7 @@
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 
   - [Multi-VPC Account Architechture](https://github.com/brycehallcloud/Multi-VPC-Account-Architecture)
-  - [Multi-VPC Account Architechture](https://github.com/brycehallcloud/Multi-VPC-Account-Architecture)
+  - [Microservices Architecture with AWS ECS](https://github.com/brycehallcloud/Microservices-Architecture-with-AWS-ECS)
  
 <h2>📋Certifications</h2>
 
