@@ -2,6 +2,7 @@
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 
   - [Multi-VPC Account Architechture](https://github.com/brycehallcloud/Multi-VPC-Account-Architecture)
+  - [Multi-VPC Account Architechture](https://github.com/brycehallcloud/Multi-VPC-Account-Architecture)
  
 <h2>📋Certifications</h2>
 
