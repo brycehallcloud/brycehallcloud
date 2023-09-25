@@ -3,7 +3,7 @@
 
   - [Multi-VPC Account Architechture](https://github.com/brycehallcloud/Multi-VPC-Account-Architecture)
   - [Microservices Architecture with AWS ECS](https://github.com/brycehallcloud/Microservices-Architecture-with-AWS-ECS)
-  - [Serverless Web Application on AWS](https://github.com/brycehallcloud/Serverless-Web-Application-on-AWS)
+  - [End-to-End Web Application on AWS](https://github.com/brycehallcloud/End-to-End-Web-Application-on-AWS)
  
 <h2>📋Certifications</h2>
 
