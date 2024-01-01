@@ -8,6 +8,7 @@
 <h2>📋Certifications</h2>
 
 - [CpmpTIA Security +](https://www.credly.com/badges/02ed2b42-6160-4f55-8047-896fc64d0753/public_url)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/30d4daf5-4a28-43b4-b91b-849bc7dba8ab/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
